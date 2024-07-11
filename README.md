@@ -1,0 +1,1 @@
+This is my first python project. Here I designed a simple bank account using sqlite3 and tkinter modules. First, in this application, we have login window. Moreover, we can read users and accounts information from sqlite database, show these information in two separate windows, update the information, and add new account and user.
